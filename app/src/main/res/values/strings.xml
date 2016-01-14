@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">红包Robot</string>
+    <string name="description">点击右上角开关，在弹出对话框中点击"确定"。\r\n\r\n
+        提示:\r\n
+        开启后请到微信的单个群里面,即可享受辅助服务.\r\n
+        支持Android 4.1以上系统.\r\n
+        如果出现Bug,请给我发email.\r\n
+        sunxu3074@gmail.com\r\n\r\n
+        项目地址:\r\n
+        github.com/sunxu3074/AutoRobRedPackage\r\n\r\n
+        个人网站:\r\n
+        http://isunxu.xyz
+    </string>
+</resources>

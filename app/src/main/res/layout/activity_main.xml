@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="
+        保持程序运行在后台与服务开启.\r\n
+        要抢红包之前可以先把程序关闭,然后重新开启程序与服务.(以免程序会被系统强制关闭)\r\n
+        设置屏幕熄灭时间长一点\r\n
+        停留在选择要抢红包的群的页面中.\r\n
+        "
+        android:layout_above="@+id/btn_open_setting"
+        android:layout_marginBottom="30dp"
+        android:typeface="serif"/>
+
+    <Button
+    android:id="@+id/btn_open_wechat"
+    android:text="打开微信"
+        android:layout_below="@+id/btn_open_setting"
+    android:layout_centerInParent="true"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"/>
+
+    <Button
+        android:id="@+id/btn_open_setting"
+        android:text="打开设置界面"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>
