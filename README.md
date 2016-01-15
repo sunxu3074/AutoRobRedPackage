@@ -6,6 +6,10 @@
 - [Youtube观看地址](https://www.youtube.com/watch?v=OvmtSiPuC5I)
 - [优酷观看地址](http://v.youku.com/v_show/id_XMTQ0NTc0MTM0MA==.html)
 
+### Apk download
+
+[apk](/apk/app-debug.apk)
+
 ### 内容介绍
 
 <http://isunxu.xyz/android/auto-rob-red-package>
