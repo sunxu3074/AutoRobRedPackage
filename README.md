@@ -8,7 +8,7 @@
 
 ### Apk download
 
-[apk](/apk/app-debug.apk)
+[apk](/apk/app-debug.apk) 点击Raw下载
 
 ### 内容介绍
 
