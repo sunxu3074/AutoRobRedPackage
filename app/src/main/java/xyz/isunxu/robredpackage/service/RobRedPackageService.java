@@ -69,12 +69,9 @@ public class RobRedPackageService extends AccessibilityService {
             if (infoKais != null && infoKais.size() > 0) {
                 AccessibilityNodeInfo accessibilityNodeInfo = infoKais.get(infoKais.size() - 1);
                 int size = accessibilityNodeInfo.getParent().getChildCount();
-                Log.d("sunxu_log", "size-->" + size);
-                //for (AccessibilityNodeInfo info : infoKais) {
-                //    info.performAction(AccessibilityNodeInfo.ACTION_CLICK);
-                //}
+                
                 for (int i = 0; i < accessibilityNodeInfo.getParent().getChildCount(); i++) {
-                    accessibilityNodeInfo.getParent().getChild(3).performAction(AccessibilityNodeInfo.ACTION_CLICK);
+                    accessibilityNodeInfo.getParent().getChild(i).performAction(AccessibilityNodeInfo.ACTION_CLICK);
                 }
             }
         }
