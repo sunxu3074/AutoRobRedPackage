@@ -12,9 +12,9 @@
 
 ### 内容介绍
 
-<http://isunxu.xyz/android/auto-rob-red-package>
+<https://sunxu.work/android/auto-rob-red-package>
 
 ### 支持
 
 - 在github上给我一个star就好.
-- 捐赠: http://isunxu.xyz/about (支付宝和微信的二维码都在这个页面上,star为主,捐赠为辅)
+- 捐赠: https://sunxu.work/about (支付宝和微信的二维码都在这个页面上,star为主,捐赠为辅)
